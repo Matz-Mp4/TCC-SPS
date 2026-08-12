@@ -19,9 +19,9 @@ This project is a **prototype interactive application** designed to visualize an
 
 ## **External Dependencies**
 The following libraries and tools are required to run the application:
-- **GLEW**
-- **GLFW3**
-- **CMake**
+- **GLEW**,
+- **GLFW3**,
+- **CMake**.
 
 ---
 ## **Usage**
